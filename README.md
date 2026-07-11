@@ -30,7 +30,7 @@ Analyze how annual members and casual riders use Cyclistic bikes differently and
 
 \- Tableau (Dashboard Development)
 
-\- Microsoft Excel
+\- Google Workspace (Sheets\, Docs \& Slides )
 
 \- GitHub
 
