@@ -1,76 +1,156 @@
-\# Cyclistic Bike Share Analysis
+# 🚲 Cyclistic Bike Share Analysis
 
+## 📌 Project Overview
 
+This project is part of the Google Data Analytics Professional Certificate Capstone. The objective is to analyze 12 months of Cyclistic bike-share trip data to identify behavioral differences between annual members and casual riders and provide data-driven recommendations to increase annual memberships.
 
-\## Project Overview
+---
 
-This project analyzes 12 months of Cyclistic bike-share data to understand the behavioral differences between annual members and casual riders. The insights are used to recommend strategies that can increase annual memberships.
+# 🎯 Business Problem
 
+Cyclistic, a bike-sharing company based in Chicago, wants to increase the number of annual members by converting casual riders into subscribers.
 
+Understanding how annual members and casual riders use Cyclistic bikes differently is essential for developing an effective marketing strategy.
 
-\## Business Task
+---
 
-Analyze how annual members and casual riders use Cyclistic bikes differently and provide data-driven recommendations to convert casual riders into annual members.
+# ❓ Business Question
 
+**How do annual members and casual riders use Cyclistic bikes differently, and how can these differences inform a strategy to convert casual riders into annual members?**
 
+---
 
-\## Dataset
+# 📂 Dataset
 
-\- Source: Divvy Trip Data (Cyclistic)
+- **Source:** Divvy Bike Share (Cyclistic)
+- **Period:** July 2025 – June 2026
+- **Dataset Size:** 5.93 Million Rides
+- **File Size:** 1.42 GB
+- **Format:** CSV
 
-\- Period: July 2025 – June 2026
+---
 
-\- Total Records: 5.93 Million Rides
+# 🛠 Tools Used
 
+- **Google Sheets** – Initial Data Exploration
+- **R** – Data Cleaning & Data Analysis
+- **Tableau** – Dashboard Development
+- **Google Docs** – Business Report
+- **Google Slides** – Project Presentation
+- **GitHub** – Portfolio Documentation
 
+---
 
-\## Tools Used
+# 🔄 Project Workflow
 
-\- R (Data Cleaning \& Processing)
+The project followed the six phases of the Google Data Analytics Process.
 
-\- Tableau (Dashboard Development)
+1. Ask
+2. Prepare
+3. Process
+4. Analyze
+5. Share
+6. Act
 
-\- Google Workspace (Sheets\, Docs \& Slides )
+---
 
-\- GitHub
+# 📊 Dashboard Preview
 
+## Dashboard 1 – Executive Summary
 
+![Dashboard 1](06_Images/Dashboard1.png)
 
-\## Project Workflow
+---
 
-1\. Ask
+## Dashboard 2 – Customer Behavior Analysis
 
-2\. Prepare
+![Dashboard 2](06_Images/Dashboard2.png)
 
-3\. Process
+---
 
-4\. Analyze
+# 📈 Key Findings
 
-5\. Share
+- Annual members completed **3.82 million rides (64.3%)**.
+- Casual riders completed **2.12 million rides (35.7%)**.
+- Casual riders had significantly longer average ride durations.
+- Annual members primarily rode during weekdays.
+- Casual riders showed higher weekend activity.
+- Electric bikes were the most preferred rideable type.
+- Peak riding hour occurred at **5:00 PM (17:00)**.
+- Ride demand increased during the summer months.
 
-6\. Act
+---
 
+# 💡 Business Recommendations
 
+- Target weekend riders with membership campaigns.
+- Promote electric bike membership benefits.
+- Launch seasonal marketing campaigns during summer.
+- Focus promotions during evening peak hours.
+- Develop commuter-focused membership plans.
 
-\## Folder Structure
+---
 
-\- 01\_Raw\_Data
+# 📁 Repository Structure
 
-\- 02\_Cleaned\_Data
+```
+cyclistic-bike-share-analysis
+│
+├── 03_R_Scripts
+├── 04_Tableau
+├── 05_Report
+├── 06_Images
+├── 07_Documents
+├── 08_Presentation
+└── README.md
+```
 
-\- 03\_R\_Scripts
+---
 
-\- 04\_Tableau
+# 📄 Project Documents
 
-\- 05\_Report
+- Business Analysis Report
+- Project Summary
+- Presentation
+- Tableau Dashboard
+- Dashboard Images
 
-\- 06\_Images
+---
 
-\- 07\_Documents
+# 📌 Skills Demonstrated
 
+- Data Cleaning
+- Data Wrangling
+- Exploratory Data Analysis
+- Data Visualization
+- Dashboard Design
+- Business Intelligence
+- Business Analysis
+- Data Storytelling
+- Documentation
 
+---
 
-\## Author
+# 🚀 Future Improvements
 
-Abhirami Ananthakumar
+Future analysis could include:
 
+- Station-level geographic analysis
+- Revenue and pricing analysis
+- Customer segmentation
+- SQL implementation
+- Predictive analytics
+
+---
+
+# 👩‍💻 Author
+
+**Abhirami Ananthakumar**
+
+Data Analyst
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/abhirami-ananthakumar-8b83a5256
+
+🔗 GitHub  
+https://github.com/abhirami-ananthakumar
